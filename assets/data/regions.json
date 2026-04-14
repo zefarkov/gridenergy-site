@@ -1,0 +1,114 @@
+[
+  {
+    "name": {
+      "uz": "Toshkent shahri",
+      "ru": "Toshkent г.",
+      "en": "Toshkent shahri"
+    },
+    "clients": 38
+  },
+  {
+    "name": {
+      "uz": "Toshkent viloyati",
+      "ru": "Toshkent viloyati",
+      "en": "Toshkent viloyati"
+    },
+    "clients": 19
+  },
+  {
+    "name": {
+      "uz": "Samarqand",
+      "ru": "Samarqand",
+      "en": "Samarqand"
+    },
+    "clients": 14
+  },
+  {
+    "name": {
+      "uz": "Buxoro",
+      "ru": "Buxoro",
+      "en": "Buxoro"
+    },
+    "clients": 9
+  },
+  {
+    "name": {
+      "uz": "Andijon",
+      "ru": "Andijon",
+      "en": "Andijon"
+    },
+    "clients": 11
+  },
+  {
+    "name": {
+      "uz": "Farg‘ona",
+      "ru": "Farg‘ona",
+      "en": "Farg‘ona"
+    },
+    "clients": 12
+  },
+  {
+    "name": {
+      "uz": "Namangan",
+      "ru": "Namangan",
+      "en": "Namangan"
+    },
+    "clients": 10
+  },
+  {
+    "name": {
+      "uz": "Qashqadaryo",
+      "ru": "Qashqadaryo",
+      "en": "Qashqadaryo"
+    },
+    "clients": 8
+  },
+  {
+    "name": {
+      "uz": "Surxondaryo",
+      "ru": "Surxondaryo",
+      "en": "Surxondaryo"
+    },
+    "clients": 6
+  },
+  {
+    "name": {
+      "uz": "Jizzax",
+      "ru": "Jizzax",
+      "en": "Jizzax"
+    },
+    "clients": 5
+  },
+  {
+    "name": {
+      "uz": "Sirdaryo",
+      "ru": "Sirdaryo",
+      "en": "Sirdaryo"
+    },
+    "clients": 4
+  },
+  {
+    "name": {
+      "uz": "Navoiy",
+      "ru": "Navoiy",
+      "en": "Navoiy"
+    },
+    "clients": 5
+  },
+  {
+    "name": {
+      "uz": "Xorazm",
+      "ru": "Xorazm",
+      "en": "Xorazm"
+    },
+    "clients": 3
+  },
+  {
+    "name": {
+      "uz": "Qoraqalpog‘iston",
+      "ru": "Qoraqalpog‘iston",
+      "en": "Qoraqalpog‘iston"
+    },
+    "clients": 2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "uz": "Elektr xavfsizligi bo‘yicha sertifikat",
+      "ru": "Сертификат по электробезопасности",
+      "en": "Electrical safety certificate"
+    },
+    "issuer": {
+      "uz": "Akkreditatsiyalangan o‘quv markazi",
+      "ru": "Аккредитованный учебный центр",
+      "en": "Accredited training center"
+    },
+    "year": "2025",
+    "file": "assets/img/certificates/cert-1.svg"
+  },
+  {
+    "title": {
+      "uz": "Quyosh tizimlari montaji bo‘yicha sertifikat",
+      "ru": "Сертификат по монтажу солнечных систем",
+      "en": "Solar system installation certificate"
+    },
+    "issuer": {
+      "uz": "Texnik hamkor dasturi",
+      "ru": "Техническая партнёрская программа",
+      "en": "Technical partner program"
+    },
+    "year": "2024",
+    "file": "assets/img/certificates/cert-2.svg"
+  },
+  {
+    "title": {
+      "uz": "Loyihalash va texnik audit malakasi",
+      "ru": "Квалификация по проектированию и техаудиту",
+      "en": "Design and technical audit qualification"
+    },
+    "issuer": {
+      "uz": "Muhandislik markazi",
+      "ru": "Инженерный центр",
+      "en": "Engineering center"
+    },
+    "year": "2024",
+    "file": "assets/img/certificates/cert-3.svg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Azamat Karimov",
+    "role": {
+      "uz": "Bosh muhandis",
+      "ru": "Главный инженер",
+      "en": "Chief engineer"
+    },
+    "bio": {
+      "uz": "Obyekt auditi, tizim arxitekturasi va texnik nazorat uchun javob beradi.",
+      "ru": "Отвечает за аудит объекта, архитектуру системы и техконтроль.",
+      "en": "Responsible for site audit, system architecture, and technical control."
+    },
+    "photo": "assets/img/team/azamat.svg"
+  },
+  {
+    "name": "Jahongir Tursunov",
+    "role": {
+      "uz": "Loyiha menejeri",
+      "ru": "Руководитель проекта",
+      "en": "Project manager"
+    },
+    "bio": {
+      "uz": "Muddat, kommunikatsiya, yetkazib berish va mijoz bilan ishlash blokini boshqaradi.",
+      "ru": "Ведёт сроки, коммуникацию, поставки и клиентский блок.",
+      "en": "Leads timeline, communications, procurement, and client relations."
+    },
+    "photo": "assets/img/team/jahongir.svg"
+  },
+  {
+    "name": "Shoxrux Raximov",
+    "role": {
+      "uz": "Montaj va ishga tushirish boshlig‘i",
+      "ru": "Руководитель монтажа и пусконаладки",
+      "en": "Installation and commissioning lead"
+    },
+    "bio": {
+      "uz": "Montaj sifati, xavfsizlik va topshirish jarayonini yopadi.",
+      "ru": "Закрывает качество монтажа, безопасность и сдачу объекта.",
+      "en": "Owns installation quality, safety, and commissioning."
+    },
+    "photo": "assets/img/team/shoxrux.svg"
+  }
+]

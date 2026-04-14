@@ -1,0 +1,114 @@
+[
+  {
+    "id": "p1",
+    "slug": "hybrid-house-tashkent",
+    "region": "Toshkent shahri",
+    "client_count": 1,
+    "kw": 12,
+    "date": "2024-06-15",
+    "title": {
+      "uz": "Toshkentdagi xususiy uy uchun 12 kVt gibrid tizim",
+      "ru": "12 кВт гибридная система для частного дома в Ташкенте",
+      "en": "12 kW hybrid system for a private house in Tashkent"
+    },
+    "type": {
+      "uz": "Xususiy uy",
+      "ru": "Частный дом",
+      "en": "Private house"
+    },
+    "summary": {
+      "uz": "Elektr uzilishlari paytida ham rezerv quvvatni ushlab turuvchi gibrid yechim.",
+      "ru": "Гибридное решение с резервным питанием при отключениях.",
+      "en": "Hybrid solution with backup power during outages."
+    },
+    "gallery": [
+      "assets/img/projects/p1/01.svg",
+      "assets/img/projects/p1/02.svg",
+      "assets/img/projects/p1/03.svg"
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "hotel-samarkand",
+    "region": "Samarqand",
+    "client_count": 1,
+    "kw": 80,
+    "date": "2023-09-03",
+    "title": {
+      "uz": "Samarqand mehmonxonasi uchun 80 kVt stansiya",
+      "ru": "Станция 80 кВт для гостиницы в Самарканде",
+      "en": "80 kW station for a hotel in Samarkand"
+    },
+    "type": {
+      "uz": "Mehmonxona",
+      "ru": "Гостиница",
+      "en": "Hotel"
+    },
+    "summary": {
+      "uz": "Kunlik yuqori iste’molga ega obyekt uchun iqtisodiy va vizual jihatdan toza integratsiya.",
+      "ru": "Чистая интеграция для объекта с высоким дневным потреблением.",
+      "en": "Clean integration for a site with high daytime demand."
+    },
+    "gallery": [
+      "assets/img/projects/p2/01.svg",
+      "assets/img/projects/p2/02.svg",
+      "assets/img/projects/p2/03.svg"
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "factory-andijan",
+    "region": "Andijon",
+    "client_count": 1,
+    "kw": 150,
+    "date": "2025-01-20",
+    "title": {
+      "uz": "Andijondagi ishlab chiqarish sexi uchun 150 kVt",
+      "ru": "150 кВт для производственного цеха в Андижане",
+      "en": "150 kW for a production facility in Andijan"
+    },
+    "type": {
+      "uz": "Ishlab chiqarish",
+      "ru": "Производство",
+      "en": "Production"
+    },
+    "summary": {
+      "uz": "Kunduzgi yuklamani yopish va tarmoq xarajatini pasaytirish uchun sanoat yechimi.",
+      "ru": "Промышленное решение для закрытия дневной нагрузки и снижения затрат.",
+      "en": "Industrial system to cover daytime load and reduce grid costs."
+    },
+    "gallery": [
+      "assets/img/projects/p3/01.svg",
+      "assets/img/projects/p3/02.svg",
+      "assets/img/projects/p3/03.svg"
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "office-bukhara",
+    "region": "Buxoro",
+    "client_count": 1,
+    "kw": 30,
+    "date": "2024-11-08",
+    "title": {
+      "uz": "Buxorodagi ofis majmuasi uchun 30 kVt tizim",
+      "ru": "Система 30 кВт для офисного комплекса в Бухаре",
+      "en": "30 kW system for an office complex in Bukhara"
+    },
+    "type": {
+      "uz": "Ofis",
+      "ru": "Офис",
+      "en": "Office"
+    },
+    "summary": {
+      "uz": "Biznes markaz uchun tejamkorlik va brend ko‘rinishini birlashtirgan loyiha.",
+      "ru": "Проект, совмещающий экономию и имидж для бизнес-объекта.",
+      "en": "A project that combines savings and brand image for a business site."
+    },
+    "gallery": [
+      "assets/img/projects/p4/01.svg",
+      "assets/img/projects/p4/02.svg",
+      "assets/img/projects/p4/03.svg"
+    ]
+  }
+]

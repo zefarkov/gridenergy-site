@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "GRID",
+    "full_name": "GRID ENERGY",
+    "tagline": {
+      "uz": "Quyosh elektr stansiyalarini loyihalash va o‘rnatish",
+      "ru": "Проектирование и установка солнечных электростанций",
+      "en": "Solar power system design and installation"
+    },
+    "phone_primary": "+998 93 311 31 99",
+    "phone_secondary": "+998 91 004 66 51",
+    "telegram": "https://t.me/gridenergy_uz",
+    "instagram": "https://instagram.com/grid_uz",
+    "website": "https://gridenergy.uz",
+    "email": "info@gridenergy.uz",
+    "address": {
+      "uz": "O‘zbekiston, Toshkent",
+      "ru": "Узбекистан, Ташкент",
+      "en": "Tashkent, Uzbekistan"
+    },
+    "founded": "2022"
+  }
+}

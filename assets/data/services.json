@@ -1,0 +1,50 @@
+[
+  {
+    "title": {
+      "uz": "Quyosh elektr stansiyasi “pod kalit”",
+      "ru": "СЭС под ключ",
+      "en": "Turnkey solar power systems"
+    },
+    "text": {
+      "uz": "Hisob, loyiha, uskuna tanlash, montaj, ishga tushirish va servis.",
+      "ru": "Расчёт, проект, подбор оборудования, монтаж, пуск и сервис.",
+      "en": "Sizing, design, equipment selection, installation, commissioning, and support."
+    }
+  },
+  {
+    "title": {
+      "uz": "Gibrid va rezerv tizimlar",
+      "ru": "Гибридные и резервные системы",
+      "en": "Hybrid and backup systems"
+    },
+    "text": {
+      "uz": "Elektr uzilishlarida obyektni ushlab turuvchi konfiguratsiyalar.",
+      "ru": "Конфигурации для работы объекта при отключениях.",
+      "en": "Configurations that keep the site running during outages."
+    }
+  },
+  {
+    "title": {
+      "uz": "Tijorat obyektlari uchun yechimlar",
+      "ru": "Решения для коммерческих объектов",
+      "en": "Solutions for commercial facilities"
+    },
+    "text": {
+      "uz": "Ofis, sex, mehmonxona, do‘kon va omborlar uchun individual yechim.",
+      "ru": "Индивидуальные решения для офисов, цехов, гостиниц, магазинов и складов.",
+      "en": "Custom solutions for offices, factories, hotels, stores, and warehouses."
+    }
+  },
+  {
+    "title": {
+      "uz": "Audit va modernizatsiya",
+      "ru": "Аудит и модернизация",
+      "en": "Audit and modernization"
+    },
+    "text": {
+      "uz": "Mavjud tizimni tekshirish, kuchaytirish va optimallashtirish.",
+      "ru": "Проверка, усиление и оптимизация существующей системы.",
+      "en": "Inspection, strengthening, and optimization of existing systems."
+    }
+  }
+]

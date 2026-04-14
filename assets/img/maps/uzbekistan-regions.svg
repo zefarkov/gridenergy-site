@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<style>
+.r{fill:#f8fbff;stroke:#7ca4d6;stroke-width:2}
+.t{font:600 16px Arial;fill:#11345a}
+.s{font:700 18px Arial;fill:#0f4f98}
+</style>
+<rect width="900" height="560" rx="28" fill="#eef4fb"/>
+<g>
+<rect class="r" x="60" y="210" width="150" height="90" rx="18"/><text class="t" x="76" y="245">Qoraqalpog‘iston</text><text class="s" x="76" y="275">2 ta mijoz</text>
+<rect class="r" x="230" y="210" width="120" height="90" rx="18"/><text class="t" x="246" y="245">Xorazm</text><text class="s" x="246" y="275">3</text>
+<rect class="r" x="370" y="200" width="120" height="90" rx="18"/><text class="t" x="386" y="235">Navoiy</text><text class="s" x="386" y="265">5</text>
+<rect class="r" x="500" y="180" width="120" height="90" rx="18"/><text class="t" x="516" y="215">Buxoro</text><text class="s" x="516" y="245">9</text>
+<rect class="r" x="640" y="185" width="120" height="90" rx="18"/><text class="t" x="656" y="220">Samarqand</text><text class="s" x="656" y="250">14</text>
+<rect class="r" x="640" y="290" width="100" height="72" rx="18"/><text class="t" x="654" y="320">Qashqadaryo</text><text class="s" x="654" y="345">8</text>
+<rect class="r" x="752" y="300" width="100" height="72" rx="18"/><text class="t" x="766" y="330">Surxondaryo</text><text class="s" x="766" y="355">6</text>
+<rect class="r" x="760" y="190" width="90" height="62" rx="16"/><text class="t" x="772" y="220">Jizzax</text><text class="s" x="772" y="242">5</text>
+<rect class="r" x="760" y="120" width="90" height="56" rx="16"/><text class="t" x="770" y="145">Sirdaryo</text><text class="s" x="770" y="166">4</text>
+<rect class="r" x="650" y="105" width="100" height="56" rx="16"/><text class="t" x="660" y="130">Toshkent v.</text><text class="s" x="660" y="152">19</text>
+<rect class="r" x="760" y="55" width="90" height="52" rx="16"/><text class="t" x="769" y="79">Toshkent sh.</text><text class="s" x="769" y="99">38</text>
+<rect class="r" x="650" y="20" width="90" height="52" rx="16"/><text class="t" x="663" y="44">Namangan</text><text class="s" x="663" y="64">10</text>
+<rect class="r" x="550" y="20" width="90" height="52" rx="16"/><text class="t" x="565" y="44">Farg‘ona</text><text class="s" x="565" y="64">12</text>
+<rect class="r" x="450" y="20" width="90" height="52" rx="16"/><text class="t" x="465" y="44">Andijon</text><text class="s" x="465" y="64">11</text>
+</g>
+</svg>
